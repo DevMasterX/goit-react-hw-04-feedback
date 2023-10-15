@@ -1,0 +1,20 @@
+.title {
+  color: #4b4b48;
+  font-family: 'Helvetica';
+  margin-top: 0;
+}
+
+.sectionwrapper {
+  padding-top: 50px;
+}
+
+.section {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -49px;
+  padding: 17px 0;
+  width: 320px;
+  background-color: #d8c3a5;
+  box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 15px;
+}

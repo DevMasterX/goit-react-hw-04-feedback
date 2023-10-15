@@ -1,0 +1,20 @@
+.list {
+  list-style-type: none;
+  font-family: 'Helvetica';
+}
+
+.good {
+  color: #049987;
+}
+
+.bad {
+  color: #e85a4f;
+}
+
+.total {
+  color: #3c2aa4;
+}
+
+.percentage {
+  font-weight: bold;
+}
